@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.36b9a160.css",
-    "main.js": "/static/js/main.119add09.js",
+    "main.js": "/static/js/main.b8136a0f.js",
     "static/js/787.5bff17d6.chunk.js": "/static/js/787.5bff17d6.chunk.js",
     "static/media/2.png": "/static/media/2.81dc51e87c927f996439.png",
     "static/media/Background1.png": "/static/media/Background1.dcb8bff089a7ebc12082.png",
@@ -12,13 +12,17 @@
     "static/media/Pretendard-Regular.woff": "/static/media/Pretendard-Regular.ab56c53f21ca6b32d15f.woff",
     "static/media/Background3.png": "/static/media/Background3.6d7425d8b069e9db0a22.png",
     "static/media/Background4.png": "/static/media/Background4.03090beb3b811df3d997.png",
+    "static/media/NOINOM2.svg": "/static/media/NOINOM2.a05b192f6e66c50cea05d9a1915b5616.svg",
+    "static/media/NOINOM.svg": "/static/media/NOINOM.740edd519019ba6394be7de938a69cb5.svg",
     "index.html": "/index.html",
+    "static/media/BigArrow.svg": "/static/media/BigArrow.ca1852d6bf3bcd539398ad274981379d.svg",
+    "static/media/arrow-down.svg": "/static/media/arrow-down.2183d1018fee8dda2b668c1d2e094c0e.svg",
     "main.36b9a160.css.map": "/static/css/main.36b9a160.css.map",
-    "main.119add09.js.map": "/static/js/main.119add09.js.map",
+    "main.b8136a0f.js.map": "/static/js/main.b8136a0f.js.map",
     "787.5bff17d6.chunk.js.map": "/static/js/787.5bff17d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36b9a160.css",
-    "static/js/main.119add09.js"
+    "static/js/main.b8136a0f.js"
   ]
 }
